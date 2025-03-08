@@ -26,3 +26,10 @@ Accurate age and gender prediction has numerous practical applications across in
 
 # Dataset Used
 For this project, the UTKFace Dataset is used, which contains a large collection of facial images with age, gender, and ethnicity labels. This diverse dataset ensures that the model learns to generalize across different demographics.
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/3a182f7e-4c61-471a-b58c-8866b9ab9e84)
+![Image](https://github.com/user-attachments/assets/efc3d61c-8f37-4c9c-99f9-8731564544cd)
+![Image](https://github.com/user-attachments/assets/1b3fca15-dd33-48a8-bb25-2ea462861807)
+![Image](https://github.com/user-attachments/assets/d2cf8333-f3bb-4f9c-b486-945274f15c8f)
+![Image](https://github.com/user-attachments/assets/1b8e705f-7ec4-41eb-a5e8-f0d3b6e8afea)
